@@ -1,8 +1,7 @@
 Laily Ade Oktaviana - 2101201026 
 
-Advanced cyber security
+Advanced Cyber Security
 Task: Pendeteksi serangan menggunakan klasifier Decision Tree
-
 
 Decision Tree;
 
@@ -12,6 +11,9 @@ Decision Tree adalah algoritma dengan sistem pengambilan keputusan berdasarkan a
 
 KDDcup99 Dataset;
 
-KDDcup99 Dataset berisi 41 atribut variasi data yang disimulasikan dari intrusi pada jaringan militer.
+Pada tugas ini menggunakan data 10% dataset KDD Cup 1999 (http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html). KDDcup99 Dataset berisi 41 atribut variasi data yang disimulasikan dari intrusi pada jaringan militer.
 
 <img width="475" alt="Screen Shot 2022-01-04 at 22 58 25" src="https://user-images.githubusercontent.com/73576347/148086948-a724e84c-9d56-4a9d-b653-d6186a53bf8d.png">
+
+--------
+Membuat 2 training set yang telah dipilih sampel dari data set dan melakukan evaluate data yang dipilih menggunakan decision trees. 
