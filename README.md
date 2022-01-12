@@ -5,7 +5,7 @@ Task: Pendeteksi serangan menggunakan klasifier Decision Tree
 
 Decision Tree;
 
-Decision Tree adalah algoritma dengan sistem pengambilan keputusan berdasarkan aturan yang ditetapkan. Aturan yang bekerja dalam sistem diilustrasikan seperti pohon. Pada pohon terdapat daun yang diilustrasikan sebagai aturan dan cabang diilustrasikan sebagai keputusan yang diambil. 
+Decision Tree adalah algoritma dengan sistem pengambilan keputusan berdasarkan aturan yang ditetapkan. Aturan yang bekerja dalam sistem diilustrasikan seperti pohon. Pada pohon terdapat daun yang diilustrasikan sebagai aturan dan cabang diilustrasikan sebagai keputusan yang diambil. Decision tree merupakan outstanding method untuk data mining. Pada intrusion detection system (IDS), data mining digunakan untuk mendeteksi serangan terutama anomaly detection. 
 
 <img width="478" alt="Screen Shot 2022-01-04 at 22 35 53" src="https://user-images.githubusercontent.com/73576347/148083739-223e47ec-5d9c-40b9-8bb8-84855e5dd3d7.png">
 
