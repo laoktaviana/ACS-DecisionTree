@@ -18,9 +18,6 @@ KDD Cup'99 merupakan data set yang telah dalam kurun waktu yang tidak sebentar u
 
 <img width="475" alt="Screen Shot 2022-01-04 at 22 58 25" src="https://user-images.githubusercontent.com/73576347/148086948-a724e84c-9d56-4a9d-b653-d6186a53bf8d.png">
 
-* kddcup.names : A list of features.
-* kddcup.data_10_percent.gz : A 10% subset.
-* training_attack_types : A list of intrusion types.
 
 
 3. Decision Tree
